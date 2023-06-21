@@ -2,7 +2,7 @@ import React from "react";
 import arrowSvg from "../images/down-arrow.svg";
 import PropTypes from "prop-types";
 
-import image from "../images/about.jpg";
+import image from "../images/code.jpg";
 
 const imageAltText = "This is me";
 
